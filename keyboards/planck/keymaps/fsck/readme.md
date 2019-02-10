@@ -1,2 +1,2 @@
-# fsck's Planck Layout
+# fsck's Planck Layout - largely based on the default
 
